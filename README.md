@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Sahil Singh Guleria from Kangra, Himachal Pradesh<br><br>- 🔭 I'm a Final year ECE student from SMVDU,Katra<br>- 📚 I'm currently learning Front-End<br>- </p>
+<p align="left">I'm Sahil Singh Guleria from Kangra, Himachal Pradesh<br><br>- 🔭 I'm a Final year ECE student from SMVDU,Katra<br>- 📚 I'm currently learning Front-End<br> </p>
 
 ###
 
