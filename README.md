@@ -7,7 +7,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-I'm Sahil Singh Guleria from Kangra, Himachal Pradesh
+
 <p align="left"><br><br>- 🔭 I'm a Final year ECE student from SMVDU,Katra<br>- 📚 I'm currently learning Front-End<br> </p>
 
 ###
