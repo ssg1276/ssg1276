@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"><br><br>- 🔭 I'm a Final year ECE student from SMVDU,Katra<br>- 📚 I'm currently learning Front-End<br> </p>
+<p align="left"><br><br>- 🔭 Associate Software Engineer, Accenture<br>- 📚 I'm currently learning Snowflake<br> </p>
 
 ###
 
